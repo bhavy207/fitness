@@ -12,7 +12,4 @@
  "dest": "index.js"
  }
  ],
- "env": {
- "DATABASE_URL": "mongodb+srv://viraj:viraj1234@cluster0.cjr8v.mongodb.net/",
- "API_KEY": "@api_key"
- }
+}
